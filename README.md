@@ -1,4 +1,4 @@
 # types
 > My utility types collection.
 
-Every type files have its Playground link.
+Every type files have its Playground link inside.
